@@ -22,6 +22,7 @@ namespace oscript
 
 		public static int Main(string[] args)
 		{
+            // Тестовый комментарий
 			int returnCode;
 
 			var behavior = BehaviorSelector.Select(args);
